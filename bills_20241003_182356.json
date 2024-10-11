@@ -1,0 +1,3771 @@
+{
+    "bills": [
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "actionTime": "10:35:57",
+                "text": "Held at the desk."
+            },
+            "number": "3475",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Strengthening the Commercial Driver\u2019s License Information System Act",
+            "type": "S",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/s/3475?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the House Committee on Armed Services."
+            },
+            "number": "9865",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To amend title 10, United States Code, to ensure that members of the Armed Forces and their families have access to the contraception they need in order to promote the health and readiness of all members of the Armed Forces, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9865?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "9871",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To establish grants to combat opioid trafficking.",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9871?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "9867",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To establish a verifiable international terrestrial ecosystem services conservation program and provide international technical assistance for the development of markets, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9867?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the House Committee on Oversight and Accountability."
+            },
+            "number": "1520",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing support for the designation of October 8, 2024, as \"National Hydrogen and Fuel Cell Day\".",
+            "type": "HRES",
+            "updateDate": "2024-10-01",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/hres/1520?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "9888",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To direct the Secretary of Transportation to update guidance for the National Electric Vehicle Infrastructure Formula Program to increase the flexibility of States related to the location of electric vehicle charging infrastructure, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9888?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "actionTime": "10:04:20",
+                "text": "Held at the desk."
+            },
+            "number": "5292",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Don Young Coast Guard Authorization Act of 2022 to modify a provision relating to the acquisition of a Coast Guard icebreaker.",
+            "type": "S",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/s/5292?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "9886",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To require the Administrator of the Drug Enforcement Administration to temporarily exempt buprenorphine from the Suspicious Orders Report System for the remainder of the opioid public health emergency.",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9886?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "actionTime": "10:04:10",
+                "text": "Held at the desk."
+            },
+            "number": "4489",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to designate the Federal building located at 50 United Nations Plaza in San Francisco, California, as the \"Senator Dianne Feinstein Federal Building,\" and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/s/4489?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "actionTime": "10:04:07",
+                "text": "Held at the desk."
+            },
+            "number": "4293",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to designate the United States courthouse annex located at 310 South Main Street in London, Kentucky, as the \"Eugene E. Siler, Jr. United States Courthouse Annex\".",
+            "type": "S",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/s/4293?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the House Committee on Financial Services."
+            },
+            "number": "9877",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To impose limitations on the amount of unobligated balances of the Bureau of Consumer Financial Protection, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9877?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "actionTime": "10:03:49",
+                "text": "Held at the desk."
+            },
+            "number": "1570",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Bottles and Breastfeeding Equipment Screening Enhancement Act",
+            "type": "S",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/s/1570?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the House Committee on Natural Resources."
+            },
+            "number": "9860",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To redesignate Camp Nelson National Monument.",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9860?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "actionTime": "10:03:42",
+                "text": "Held at the desk."
+            },
+            "number": "275",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Rural Broadband Protection Act of 2024",
+            "type": "S",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/s/275?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the Committee on Armed Services, and in addition to the Committees on Oversight and Accountability, Veterans' Affairs, and Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "9870",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To improve the provision of benefits and services to members of the Ready Reserve Corps of the Public Health Service, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9870?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "actionTime": "10:03:34",
+                "text": "Held at the desk."
+            },
+            "number": "91",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Forgotten Heroes of the Holocaust Congressional Gold Medal Act",
+            "type": "S",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/s/91?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the House Committee on Science, Space, and Technology."
+            },
+            "number": "9861",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To amend the Energy Act of 2020 to direct the Secretary of Energy to establish a demonstration program for on-site treatment of produced water, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9861?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the Committee on Agriculture, and in addition to the Committee on Natural Resources, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "9887",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To assist Indian Tribes in protecting Native American seeds.",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9887?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the House Committee on Natural Resources."
+            },
+            "number": "9883",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To prohibit the implementation of the Proposed Resource Management Plan Amendment and Final Supplemental Environmental Impact Statement for the Miles City Field Office, Montana.",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9883?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the Committee on Armed Services, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "9869",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To make dependents of members of the Armed Forces who died while serving on active duty eligible for enrollment in Department of Defense Education Activity schools on a tuition-free, space-available basis.",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9869?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "9864",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To amend the Federal Food, Drug, and Cosmetic Act to prohibit the introduction or delivery for introduction into interstate commerce of food packaging containing intentionally added PFAS, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9864?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the Committee on Ways and Means, and in addition to the Committee on Education and the Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "9881",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To direct the Commissioner of Social Security to establish American Dream Accounts for every child born in the United States, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9881?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the Committee on Appropriations, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "9889",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Making emergency supplemental appropriations for disaster relief for the fiscal year ending September 30, 2024, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9889?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on the Judiciary, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "9874",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To prohibit the performance of gender-related medical treatment on minors, to amend title XVIII of the Social Security Act to prohibit payment and participation under the Medicare program with respect to such treatment, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9874?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the House Committee on Agriculture."
+            },
+            "number": "9863",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To direct the Secretary of Agriculture to continue to carry out the Resilient Food Systems Infrastructure program, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9863?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the Committee on Education and the Workforce, and in addition to the Committees on Ways and Means, and Oversight and Accountability, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "9873",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To amend the Fair Labor Standards Act of 1938 and the Internal Revenue Code of 1986 to make certain modifications in relation to the minimum wage.",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9873?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "9879",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To amend the Controlled Substances Act to clarify how controlled substance analogues that are imported or offered for import are to be regulated, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9879?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "1523",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Recognizing the 100th anniversary of Booker T. Washington High School in Atlanta, Georgia.",
+            "type": "HRES",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hres/1523?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "9868",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To amend title 28, United States Code, to clarify the availability of Federal habeas corpus relief for a person who is sentenced to death though actually innocent.",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9868?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "9882",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To amend title XIX of the Social Security Act to permit States to apply a work requirement for nondisabled, nonelderly, nonpregnant adults under Medicaid.",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9882?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "9884",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To amend title 28, United States Code, to preclude a President from controlling the conduct of an investigation into the President by the Department of Justice.",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9884?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "210",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Proposing an amendment to the Constitution of the United States to prohibit persons who are not citizens, nationals, or lawful permanent residents of the United States from voting in elections.",
+            "type": "HJRES",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hjres/210?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "1521",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing support for the designation of September 30, 2024, as \"Rare Cancer Day\" to highlight the challenges patients with rare cancers face and to raise awareness and support efforts to improve early diagnosis and treatment.",
+            "type": "HRES",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hres/1521?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "9866",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To direct the Secretary of Health and Human Services to conduct a study and submit to Congress a report on contraceptive access at community health centers in health care deserts.",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9866?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "9872",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To establish a program to address sickle cell disease and other heritable hemoglobinopathies.",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9872?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the Committee on Small Business, and in addition to the Committees on Education and the Workforce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "9880",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To amend the Small Business Act to establish the Entrepreneurship Corps National Service Program, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9880?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-27",
+                "text": "Referred to the House Committee on Ways and Means."
+            },
+            "number": "9876",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To authorize the appropriate administrative authorities to impose certain restrictions with respect to the Republic of Korea, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9876?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-26",
+                "text": "Became Public Law No: 118-88."
+            },
+            "number": "2861",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Billie Jean King Congressional Gold Medal Act",
+            "type": "S",
+            "updateDate": "2024-09-29",
+            "updateDateIncludingText": "2024-09-29",
+            "url": "https://api.congress.gov/v3/bill/118/s/2861?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-26",
+                "text": "Became Public Law No: 118-87."
+            },
+            "number": "2825",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Dustoff Crews of the Vietnam War Congressional Gold Medal Act",
+            "type": "S",
+            "updateDate": "2024-09-29",
+            "updateDateIncludingText": "2024-09-29",
+            "url": "https://api.congress.gov/v3/bill/118/s/2825?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-26",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "888",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution honoring the life of James Ralph Sasser, former Senator for the State of Tennessee.",
+            "type": "SRES",
+            "updateDate": "2024-09-27",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/sres/888?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-26",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "7777",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Veterans\u2019 Compensation Cost-of-Living Adjustment Act of 2024",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/7777?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-26",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "127",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Authorizing the use of Emancipation Hall in the Capitol Visitor Center for the unveiling of a statue of Martha Hughes Cannon.",
+            "type": "HCONRES",
+            "updateDate": "2024-09-27",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/hconres/127?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Resolution agreed to in Senate with an amendment and an amended preamble by Unanimous Consent. (text: CR S6468-6469)"
+            },
+            "number": "805",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution commemorating the tenth anniversary of the murder of James Wright Foley and calling for the moral courage to prioritize the return of Americans held captive abroad and take all necessary efforts to deter international hostage taking and arbitrary detention.",
+            "type": "SRES",
+            "updateDate": "2024-10-01",
+            "updateDateIncludingText": "2024-10-02",
+            "url": "https://api.congress.gov/v3/bill/118/sres/805?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6467; text: CR S6460)"
+            },
+            "number": "887",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution expressing support for the designation of October 7 through October 12, 2024, as \"National 4-H Week\".",
+            "type": "SRES",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/sres/887?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6467; text: CR S6459-6460)"
+            },
+            "number": "886",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution expressing support for the designation of the week of October 24, 2024, to October 31, 2024, as \"Bat Week\".",
+            "type": "SRES",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-10-02",
+            "url": "https://api.congress.gov/v3/bill/118/sres/886?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6467; text: CR S6459)"
+            },
+            "number": "885",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution designating October 2, 2024, as \"Energy Efficiency Day\" in celebration of the economic and environmental benefits that have been driven by private sector innovation and Federal energy efficiency policies.",
+            "type": "SRES",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/sres/885?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6467; text: CR S6459)"
+            },
+            "number": "884",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution designating the week of September 22 through September 28, 2024, as \"Gold Star Families Remembrance Week\".",
+            "type": "SRES",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/sres/884?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6467; text: CR S6458)"
+            },
+            "number": "881",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution designating October 26, 2024, as the \"Day of the Deployed\".",
+            "type": "SRES",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/sres/881?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S6467; text: CR S6457)"
+            },
+            "number": "879",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution permitting the collection of clothing, toys, food, and housewares during the holiday season for charitable purposes in Senate buildings.",
+            "type": "SRES",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/sres/879?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6467; text: CR S6457)"
+            },
+            "number": "878",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution honoring the life, legacy, and contributions of James Earl Jones.",
+            "type": "SRES",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/sres/878?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S6467; text: CR S6456-6457)"
+            },
+            "number": "876",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A resolution designating October 2024 as \"National Principals Month\".",
+            "type": "SRES",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/sres/876?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 545."
+            },
+            "number": "4596",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Upper Colorado and San Juan River Basins Endangered Fish Recovery Programs Reauthorization Act of 2024",
+            "type": "HR",
+            "updateDate": "2024-10-01",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/hr/4596?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 546."
+            },
+            "number": "5490",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Bolstering Ecosystems Against Coastal Harm Act",
+            "type": "HR",
+            "updateDate": "2024-10-01",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/hr/5490?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 543."
+            },
+            "number": "7607",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To designate the facility of the United States Postal Service located at Block 1025, Lots 18 & 19, Northeast Corner of US Route 9 South and Main Street in the Township of Middle, County of Cape May, New Jersey, as the \"George Henry White Post Office Building\".",
+            "type": "HR",
+            "updateDate": "2024-09-27",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/hr/7607?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 542."
+            },
+            "number": "7606",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To designate the facility of the United States Postal Service located at 1087 Route 47 South in Rio Grande, New Jersey, as the \"Carlton H. Hand Post Office Building\".",
+            "type": "HR",
+            "updateDate": "2024-09-27",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/hr/7606?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 541."
+            },
+            "number": "7417",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To designate the facility of the United States Postal Service located at 135 West Spring Street in Titusville, Pennsylvania, as the \"Edwin L. Drake Post Office Building\".",
+            "type": "HR",
+            "updateDate": "2024-09-27",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/hr/7417?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 544."
+            },
+            "number": "7893",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To designate the facility of the United States Postal Service located at 306 Pickens Street in Marion, Alabama, as the \"Albert Turner, Sr. Post Office Building\".",
+            "type": "HR",
+            "updateDate": "2024-09-27",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/hr/7893?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 535."
+            },
+            "number": "1823",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To designate the facility of the United States Postal Service located at 207 East Fort Dade Avenue in Brooksville, Florida, as the \"Specialist Justin Dean Coleman Memorial Post Office Building\".",
+            "type": "HR",
+            "updateDate": "2024-09-27",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/1823?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 536."
+            },
+            "number": "3354",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To designate the facility of the United States Postal Service located at 220 North Hatcher Avenue in Purcellville, Virginia, as the \"Secretary of State Madeleine Albright Post Office Building\".",
+            "type": "HR",
+            "updateDate": "2024-09-27",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/hr/3354?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 540."
+            },
+            "number": "7385",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To designate the facility of the United States Postal Service located at 29 Franklin Street in Petersburg, Virginia, as the \"John Mercer Langston Post Office Building\".",
+            "type": "HR",
+            "updateDate": "2024-09-27",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/hr/7385?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 531."
+            },
+            "number": "3181",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Michel O. Maceda Memorial Act",
+            "type": "S",
+            "updateDate": "2024-10-01",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/s/3181?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 532."
+            },
+            "number": "4404",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to designate the facility of the United States Postal Service located at 840 Front Street in Casselton, North Dakota, as the \"Commander Delbert Austin Olson Post Office\".",
+            "type": "S",
+            "updateDate": "2024-09-27",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/s/4404?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 533."
+            },
+            "number": "4634",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to designate the facility of the United States Postal Service located at 154 First Avenue East in Jerome, Idaho, as the \"Representative Maxine Bell Post Office\".",
+            "type": "S",
+            "updateDate": "2024-09-27",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/s/4634?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 534."
+            },
+            "number": "4803",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to designate the facility of the United States Postal Service located at 31143 State Highway 65 in Pengilly, Minnesota, as the \"First Lieutenant Richard Arne Koski Post Office\".",
+            "type": "S",
+            "updateDate": "2024-09-27",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/s/4803?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 537."
+            },
+            "number": "6810",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To designate the facility of the United States Postal Service located at 518 North Ridgewood Drive in Sebring, Florida, as the \"U.S. Army Air Corps Major Thomas B. McGuire Post Office Building\".",
+            "type": "HR",
+            "updateDate": "2024-09-27",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/hr/6810?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 538."
+            },
+            "number": "6983",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To designate the facility of the United States Postal Service located at 15 South Valdosta Road in Lakeland, Georgia, as the \"Nell Patten Roquemore Post Office\".",
+            "type": "HR",
+            "updateDate": "2024-09-27",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/hr/6983?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 539."
+            },
+            "number": "7180",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To designate the facility of the United States Postal Service located at 80 1st Street in Kingsland, Arkansas, as the \"Kingsland 'Johnny Cash' Post Office\".",
+            "type": "HR",
+            "updateDate": "2024-09-27",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/hr/7180?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "5291",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to require all aliens applying for a nonimmigrant visa who are unlawfully present in the United States to submit to an in person interview with a consular officer.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5291?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Environment and Public Works."
+            },
+            "number": "5290",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to address the effect of litigation on applications to export liquefied natural gas, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5290?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "5288",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to require the Secretary of Energy to establish a program to provide grants to States to award grants for the establishment of networked geothermal heating and cooling systems, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5288?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry. (text: CR S6446-6447)"
+            },
+            "number": "5289",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to direct the Secretary of Agriculture and the Secretary of the Interior to carry out activities to provide for white oak restoration, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5289?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Indian Affairs."
+            },
+            "number": "5287",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to take certain Federal land in the State of Washington into trust for the Lower Elwha Klallam Tribe, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5287?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "5286",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to prohibit certain exports of natural gas produced or refined in the United States, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5286?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5264",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to suspend normal trade relations with the People's Republic of China and to increase the rates of duty applicable with respect to articles imported from the People's Republic of China, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5264?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+            },
+            "number": "5285",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to stop the shipment of illicit synthetic drugs via transportation networks in the United States, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5285?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "5283",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to award a Congressional Gold Medal to Robert M. Gates, in recognition of his service to the United States as an intelligence professional, Secretary of Defense, and educator and leader for young people of the United States.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5283?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "5265",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to take certain land into trust for the benefit of the Tonto Apache Tribe, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5265?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "5267",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to require the Comptroller General of the United States to conduct an audit of the expenditures of the Federal Emergency Management Agency.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5267?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Veterans' Affairs."
+            },
+            "number": "5269",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend title 38, United States Code, to establish a commission to review operations at the Veterans Health Administration and submit to Congress reports with respect to that review, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5269?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "5266",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to require automatic sealing of certain criminal records, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5266?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "5268",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to prohibit Federal judges from receiving certain gifts, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5268?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+            },
+            "number": "5282",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to restrict car manufacturers and other companies from selling consumer car-related data, increase transparency regarding data practices, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5282?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "5270",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Office of National Drug Control Prevention Act of 1998 to include new requirements for assessments and reports, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5270?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "5281",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Disaster Recovery Reform Act of 2018 to require the President to automatically waive certain critical document fees for individuals and households affected by major disasters for which assistance is provided under the Individuals and Households Program.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5281?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "5271",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to require the Administrator of the Drug Enforcement Administration to temporarily exempt buprenorphine from the Suspicious Orders Report System for the remainder of the opioid public health emergency.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5271?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5280",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to improve services provided to taxpayers by the Internal Revenue Service.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5280?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "5279",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to require the head of each agency to establish a plan relating to the safety of Federal employees and contractors physically present at certain worksites during a nationwide public health emergency declared for an infectious disease, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5279?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Foreign Relations."
+            },
+            "number": "5278",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to provide additional authorities for the leadership of the United States Agency for International Development in health technology innovation for global health in low-resource settings, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5278?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+            },
+            "number": "6656",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Stuck On Hold Act",
+            "type": "HR",
+            "updateDate": "2024-10-01",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/hr/6656?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs."
+            },
+            "number": "522",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Deliver for Veterans Act",
+            "type": "HR",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hr/522?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+            },
+            "number": "5277",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to direct the Secretary of Agriculture to publish, on an annual basis, an assessment of United States dependency on critical agricultural products or inputs from the People's Republic of China, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5277?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Armed Services."
+            },
+            "number": "5276",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to require a roadmap for the future desired state for the solid rocket motor (SRM) industrial base, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5276?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5275",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend title XVIII of the Social Security Act to facilitate patient access to certain pediatric technologies.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5275?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "5274",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Energy Act of 2020 to include critical materials in the definition of critical mineral, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5274?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Indian Affairs."
+            },
+            "number": "5273",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to take certain land in the State of Washington into trust for the benefit of the Quinault Indian Nation, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5273?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "actionTime": "19:09:14",
+                "text": "Held at the desk."
+            },
+            "number": "815",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Hello Girls Congressional Gold Medal Act of 2024",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/815?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation. (text: CR S6445-6446)"
+            },
+            "number": "5272",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend chapter 423 of title 49, United States Code, to provide protections with respect to frequent flyer programs and co-branded credit cards, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5272?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Message on Senate action sent to the House."
+            },
+            "number": "5009",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "WILD Act",
+            "type": "HR",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/5009?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "5259",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to require the Secretary of Energy to establish a program to increase participation in community solar programs and the receipt of associated benefits, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5259?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Environment and Public Works."
+            },
+            "number": "5258",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Migratory Bird Treaty Act to clarify the treatment of authentic Alaska Native articles of handicraft containing nonedible migratory bird parts, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5258?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "5257",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Camp Lejeune Justice Act of 2022 to make technical corrections.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5257?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5256",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Internal Revenue Code of 1986 to enhance the child tax credit, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5256?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Environment and Public Works."
+            },
+            "number": "5263",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the National Environmental Policy Act of 1969 to require the Council on Environmental Quality to publish an annual report on environmental reviews and causes of action based on alleged non-compliance with that Act, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5263?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5262",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to address maternity care shortages and promote optimal maternity outcomes by expanding access to birth centers and exploring more effective payment models for birth center care, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5262?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "5261",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to authorize the Secretary of Education to provide grants to local educational agencies to cover the costs of challenges to determinations not to discontinue the use of specific instructional materials, or the availability of specific school library materials, in public elementary and secondary schools, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5261?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Indian Affairs."
+            },
+            "number": "5227",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to reaffirm and clarify the Federal relationships of the Grand River Bands of Ottawa Indians of Michigan as a federally recognized Indian tribe, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5227?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5260",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend title XIX of the Social Security Act to require the Secretary of Health and Human Services to make certain information available on a public website relating to intermediate care facilities for individuals with intellectual disabilities certified for participation under the Medicaid program, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5260?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "5226",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to establish a program to address sickle cell disease and other heritable hemoglobinopathies.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5226?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+            },
+            "number": "1726",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Continued Rapid Ohia Death Response Act of 2023",
+            "type": "HR",
+            "updateDate": "2024-10-01",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/hr/1726?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "4259",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Think Differently about Education Act of 2023",
+            "type": "HR",
+            "updateDate": "2024-10-01",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/hr/4259?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "5252",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend title 18, United States Code to require accountability in deferred prosecution agreements, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5252?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "5509",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Electronic Permitting Modernization Act",
+            "type": "HR",
+            "updateDate": "2024-10-01",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/hr/5509?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Received in the Senate."
+            },
+            "number": "5646",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Stop Campus Hazing Act",
+            "type": "HR",
+            "updateDate": "2024-09-27",
+            "updateDateIncludingText": "2024-09-27",
+            "url": "https://api.congress.gov/v3/bill/118/hr/5646?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+            },
+            "number": "5253",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Marine Mammal Protection Act of 1972 to protect the cultural practices and livelihoods of producers of Alaska Native handicrafts and marine mammal ivory products, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5253?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Foreign Relations."
+            },
+            "number": "116",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A joint resolution providing for congressional disapproval of the proposed enhancement or upgrade of sensitivity of technology or capability of certain major defense equipment for the Government of Israel.",
+            "type": "SJRES",
+            "updateDate": "2024-10-01",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/sjres/116?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "7370",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "GEO Act",
+            "type": "HR",
+            "updateDate": "2024-10-01",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/hr/7370?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5254",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Internal Revenue Code of 1986 to enhance the employer-provided child care credit.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5254?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "7422",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Geothermal Cost-Recovery Authority Act of 2024",
+            "type": "HR",
+            "updateDate": "2024-10-01",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/hr/7422?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 530."
+            },
+            "number": "4094",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Great Salt Lake Stewardship Act",
+            "type": "HR",
+            "updateDate": "2024-10-01",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/hr/4094?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "5255",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to require the Director of the Office of Management and Budget to submit to Congress an annual report on biomedical research funded by the United States and performed in China.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5255?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 529."
+            },
+            "number": "2950",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Coastal Habitat Conservation Act of 2023",
+            "type": "HR",
+            "updateDate": "2024-10-01",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/hr/2950?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "actionTime": "17:52:21",
+                "text": "NOTIFICATION OF INTENT TO OFFER RESOLUTION - Mr. Horsford notified the House of his intent to offer a privileged resolution pursuant to clause 2(a)(1) of rule IX. The Chair announced that a determination will be made at the time designated for consideration of the resolution."
+            },
+            "number": "1500",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Censuring Representative Glen Clay Higgins of the 3rd Congressional District of Louisiana.",
+            "type": "HRES",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hres/1500?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "5251",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to establish a pilot program to support domestic critical material processing, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5251?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "5250",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to reauthorize titles II and V of the Juvenile Justice and Delinquency Prevention Act of 1974, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5250?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5249",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Internal Revenue Code of 1986 to deny certain green energy tax benefits to companies connected to certain countries of concern.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5249?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5248",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to require hospitals participating in Medicaid or the Children's Health Insurance Program to inquire whether a patient is a citizen or national of the United States, or in a satisfactory immigration status, as part of the patient admission and registration process, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5248?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "5247",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Immigration and Nationality Act to provide nonimmigrant visas for cooperating witnesses of certain criminal activity, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5247?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Armed Services."
+            },
+            "number": "5239",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to require the Secretary of Defense to manage risks relating to military use of artificial intelligence, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5239?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+            },
+            "number": "5240",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Richard B. Russell National School Lunch Act to enhance direct certification under the school lunch program.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5240?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Environment and Public Works."
+            },
+            "number": "5241",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to require the establishment and use of short form applications for rural communities applying for economic development grant programs, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5241?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "5242",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Right to Financial Privacy Act of 1978 to preserve the confidentiality of certain records, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5242?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "5243",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Federal Food, Drug, and Cosmetic Act to provide for the regulation of cannabis and cannabinoid products, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5243?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Committee on Indian Affairs. Hearings held."
+            },
+            "number": "4998",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Navajo Nation Rio San Jos\u00e9 Stream System Water Rights Settlement Act of 2024",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/4998?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Committee on Indian Affairs. Hearings held."
+            },
+            "number": "4705",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Yavapai-Apache Nation Water Rights Settlement Act of 2024",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/4705?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Committee on Indian Affairs. Hearings held."
+            },
+            "number": "4643",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Zuni Indian Tribe Water Rights Settlement Act of 2024",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/4643?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Committee on Indian Affairs. Hearings held."
+            },
+            "number": "4633",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Northeastern Arizona Indian Water Rights Settlement Act of 2024",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/4633?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Committee on Indian Affairs. Hearings held."
+            },
+            "number": "4444",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Crow Revenue Act",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/4444?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "5244",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to prohibit the purchase of certain securities from covered entities, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5244?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably."
+            },
+            "number": "465",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "BADGES for Native Communities Act",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/465?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Committee on Indian Affairs. Ordered to be reported with an amendment favorably."
+            },
+            "number": "4370",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Tribal Forest Protection Act Amendments Act of 2024",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/4370?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Committee on Indian Affairs. Ordered to be reported with an amendment favorably."
+            },
+            "number": "2908",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "Indian Buffalo Management Act",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/2908?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "5246",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Workforce Innovation and Opportunity Act to expand the capacity of junior or community colleges and area career and technical education schools to conduct training services, education, and outreach activities for careers in the residential construction industry.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5246?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "5245",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to require the Secretary of Homeland Security to provide Presidential and Vice Presidential candidates with a justification for candidate protection determinations, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5245?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+            },
+            "number": "5238",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend title 49, United States Code, to prohibit Amtrak from including mandatory arbitration clauses in contracts of carriage, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5238?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "5237",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to prohibit index funds from investing in Chinese companies, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5237?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Environment and Public Works."
+            },
+            "number": "5235",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to provide additional contract authority to State departments of transportation to carry out surface transportation projects, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5235?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5236",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend titles XIX and XXI of the Social Security Act to enhance financial support for rural and safety net hospitals providing maternity, labor, and delivery services to vulnerable populations, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5236?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5234",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Internal Revenue Code of 1986 to impose an excise tax on certain investments of private colleges and universities.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5234?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5233",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Internal Revenue Code of 1986 to treat certain gains and dividends derived from counties of concern as ordinary income.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5233?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Ordered to be Reported by Voice Vote."
+            },
+            "number": "9563",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Protecting Americans from Russian Litigation Act of 2024",
+            "type": "HR",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9563?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Ordered to be Reported (Amended) by Voice Vote."
+            },
+            "number": "9151",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Protecting American Industry and Labor from International Trade Crimes Act of 2024",
+            "type": "HR",
+            "updateDate": "2024-09-27",
+            "updateDateIncludingText": "2024-09-27",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9151?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "5232",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to prohibit the unauthorized possession of a firearm at a Federal election site.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5232?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "5229",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to reorganize the Federal judiciary, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5229?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "5228",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to require the use of prescription drug monitoring programs.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5228?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+            },
+            "number": "5231",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to require the Secretary of Agriculture to establish a pilot program to implement a pre-qualification or pre-approval process for farmers and ranchers with respect to a direct farm ownership loan under the Consolidated Farm and Rural Development Act, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5231?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "5230",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the United States-Mexico Transboundary Aquifer Assessment Act to reauthorize the United States-Mexico transboundary aquifer assessment program.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5230?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "5225",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to require the Secretary of the Treasury, in coordination with the Director of the Office of Management and Budget, to examine the ability of the Federal Government to respond to potential fiscal shocks, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5225?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "5222",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to require the Secretary of Health and Human Services to implement a pandemic preparedness and response program using artificial intelligence.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5222?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "5224",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to prohibit the imposition of requirements that handguns have certain features generally absent from firearms in common use, to restore the civil and natural rights of the people of the United States in States hostile to liberty, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5224?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "5223",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend section 301 of the Immigration and Nationality Act to clarify those classes of individuals born in the United States who are nationals and citizens of the United States at birth, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5223?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5198",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Internal Revenue Code of 1986 to provide for oil and natural gas well remediation and restoration accounts, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5198?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "5197",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to establish a rule of construction regarding consent for disclosure of personally identifiable information under the Family Educational Rights and Privacy Act of 1974.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5197?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5218",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend titles XI and XVIII of the Social Security Act to strengthen, increase oversight of, and compliance with, security standards for health information, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5218?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Veterans' Affairs."
+            },
+            "number": "5221",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend title 38, United States Code, to expand eligibility for memorial headstones and markers furnished by the Secretary of Veterans Affairs to certain individuals who died before November 11, 1998, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5221?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "5220",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to establish a process for expedited consideration of legislation relating to decisions by the Supreme Court of the United States.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5220?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5219",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Internal Revenue Code of 1986 to increase the limitation on the deduction for State and local taxes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5219?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5214",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to require States to measure and publicly report on the separation of children from parents by hidden foster care arrangements, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5214?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "5213",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Labor-Management Reporting and Disclosure Act of 1959 to require labor organizations to make certain disclosures to its members, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5213?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Armed Services."
+            },
+            "number": "5217",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend title 10, United States Code, to eliminate cost-sharing requirements for behavioral health care under TRICARE Reserve Select.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5217?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5212",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Internal Revenue Code of 1986 to modify the carbon oxide sequestration credit to ensure parity for different uses and utilizations of qualified carbon oxide.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5212?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources. (text: CR S6445)"
+            },
+            "number": "5216",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to require the Secretary of the Interior to conduct a study to determine the feasibility of constructing a project to supply municipal, rural, and industrial water from the Missouri River to the Western Dakota Regional Water System, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5216?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Foreign Relations."
+            },
+            "number": "5211",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Foreign Assistance Act of 1961 to modify the Presidential drawdown authority, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5211?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Armed Services."
+            },
+            "number": "5215",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend title 10, United States Code, to modify the treatment of nondisclosure agreements with respect to privatized military housing, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5215?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+            },
+            "number": "5207",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Consolidated Farm and Rural Development Act to modify certain requirements relating to emergency loans, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5207?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Veterans' Affairs."
+            },
+            "number": "5210",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to improve mental health services of the Department of Veterans Affairs, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5210?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5173",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend title XVIII of the Social Security Act to provide for the treatment of critical access hospital services furnished by a critical access hospital located in a noncontiguous State.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5173?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "5208",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to establish protections for warehouse workers, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5208?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "5206",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to require a report on foreign investment in the pharmaceutical industry of the United States.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5206?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S6444-6445)"
+            },
+            "number": "5209",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to require the Attorney General to make publicly available a list of federally licensed firearms dealers with a high number of short time-to-crime firearm traces, and to prohibit Federal departments and agencies from contracting with such dealers.",
+            "type": "S",
+            "updateDate": "2024-09-27",
+            "updateDateIncludingText": "2024-09-27",
+            "url": "https://api.congress.gov/v3/bill/118/s/5209?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "3208",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "DHS Cybersecurity On-the-Job Training Program Act",
+            "type": "HR",
+            "updateDate": "2024-10-01",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/hr/3208?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+            },
+            "number": "8057",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To designate the facility of the United States Postal Service located at 9317 Bolsa Avenue in Westminster, California, as the \"Little Saigon Vietnam War Veterans Memorial Post Office\".",
+            "type": "HR",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/hr/8057?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Environment and Public Works. (Sponsor introductory remarks on measure: CR S6444)"
+            },
+            "number": "5205",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to modify the boundaries of the San Pablo Bay National Wildlife Refuge, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-27",
+            "updateDateIncludingText": "2024-09-27",
+            "url": "https://api.congress.gov/v3/bill/118/s/5205?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "5203",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to require the Secretary of Health and Human Services to issue guidance on best practices for screening and treatment of congenital syphilis under Medicaid and the Children's Health Insurance Program, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5203?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "5202",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Fentanyl Sanctions Act to strengthen the imposition of sanctions under that Act, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5202?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5204",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Internal Revenue Code of 1986 to increase the limitations for deductible new business expenditures, to consolidate provisions for start-up and organizational expenditures, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5204?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Environment and Public Works."
+            },
+            "number": "5201",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Energy Policy Act of 2005 to limit Federal funding of the procurement of certain buses under the Clean School Bus program, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5201?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+            },
+            "number": "5200",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Richard B. Russell National School Lunch Act to require mandatory certification for certain students and reduce stigma associated with unpaid school meal fees, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5200?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
+            },
+            "number": "5199",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to reauthorize the National Flood Insurance Program, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5199?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5196",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Internal Revenue Code of 1986 to establish the New Homes Tax Credit.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5196?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Motion to proceed to consideration of measure rejected in Senate by Yea-Nay Vote. 39 - 56. Record Vote Number: 252."
+            },
+            "number": "41",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2025 and setting forth the appropriate budgetary levels for fiscal years 2026 through 2034.",
+            "type": "SCONRES",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/sconres/41?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Foreign Relations."
+            },
+            "number": "5195",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to establish a verifiable international terrestrial ecosystem services conservation program and provide international technical assistance for the development of markets, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5195?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 527."
+            },
+            "number": "1103",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Hong Kong Economic and Trade Office (HKETO) Certification Act",
+            "type": "HR",
+            "updateDate": "2024-10-01",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/hr/1103?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5194",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Internal Revenue Code of 1986 to expand eligibility for the refundable credit for coverage under a qualified health plan.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5194?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Energy and Natural Resources."
+            },
+            "number": "5193",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to designate certain special management areas, wildlife conservation areas, protection areas, recreation areas, wilderness areas, and scientific research and education area in the State of Colorado, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5193?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "5192",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to authorize compensation to individuals, organizations, and companies impacted by the Gold King Mine wastewater spill of 2015, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5192?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "5191",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to award grants to States to support efforts at institutions of higher education to increase degree attainment, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5191?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Foreign Relations."
+            },
+            "number": "5190",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to prohibit the procurement of certain batteries by the Department of State.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5190?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5189",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend title XVIII of the Social Security Act to waive certain distance requirements for certain hospitals electing to be designated as critical access hospitals.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5189?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5188",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Internal Revenue Code of 1986 to incentivize the divestiture of certain securities connected to the People's Republic of China.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5188?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5177",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Internal Revenue Code of 1986 to increase the standard charitable mileage rate for delivery of meals to elderly, disabled, frail, and at-risk individuals.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5177?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5178",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend title II of the Social Security Act to update the amount of Social Security lump sum death payments and index lump sum death payments to inflation.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5178?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5179",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend title XIX of the Social Security Act to provide enhanced Federal matching payments for direct support worker training programs, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5179?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5187",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Internal Revenue Code of 1986 to establish a tax credit for Qualified Community College Bonds, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5187?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5180",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend subtitle A of title XX of the Social Security Act to fund additional projects that focus on competency-based training for personal or home care aides, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5180?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "5186",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend title 18, United States Code, to establish criminal penalties for gratuities given to State and local public officials.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5186?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+            },
+            "number": "5181",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Richard B. Russell National School Lunch Act to establish minimum physical activity requirements, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5181?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "5185",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to establish a grant program to support qualified community colleges, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5185?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5182",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend title XIX of the Social Security Act to require the collection of information regarding social determinants of health, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5182?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5184",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend title XVIII of the Social Security Act to establish a floor on payments to sole community hospitals located in a non-contiguous State under the hospital outpatient prospective payment system.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5184?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on the Judiciary. (text: CR S6444)"
+            },
+            "number": "5172",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the National Child Protection Act of 1993 to ensure that businesses and organizations that work with vulnerable populations are able to request background checks for their contractors who work with those populations, as well as for individuals that the businesses or organizations license or certify to provide care for those populations.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5172?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "5183",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to include sexual assault and aggravated sexual violence in the definition of aggravated felonies under the Immigration and Nationality Act in order to expedite the removal of aliens convicted of such crimes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5183?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Ordered to be Reported (Amended) by Voice Vote."
+            },
+            "number": "9723",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To amend the National Windstorm Impact Reduction Act of 2004 to reauthorize the National Windstorm Impact Reduction Program, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9723?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Ordered to be Reported (Amended) by Voice Vote."
+            },
+            "number": "9710",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To amend the Energy Policy Act of 2005 to support a program to advance the research, development, demonstration, and commercial application of small modular reactors and micro-reactors in order to accelerate the availability of United States-based technologies, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9710?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Ordered to be Reported by Voice Vote."
+            },
+            "number": "9720",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To direct the Director of the National Institute of Standards and Technology to update the national vulnerability database to reflect vulnerabilities to artificial intelligence systems, study the need for voluntary reporting related to artificial intelligence security and safety incidents, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9720?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
+            },
+            "number": "5176",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Food Security Act of 1985 to direct the Secretary of Agriculture to provide grants to producers to carry out climate-smart conversion projects, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5176?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5175",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend subtitle A of title XX of the Social Security Act to authorize direct support worker career advancement demonstration projects, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5175?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "5174",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Employee Retirement Income Security Act of 1974 to clarify the criteria by which fiduciary responsibility is exercised in protecting shareholder rights.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5174?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "5171",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to authorize competitive grants for the establishment of HOPE Accounts Pilot Projects and HOPE Action Plans Pilot Projects, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5171?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
+            },
+            "number": "5170",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to establish the Data Protection Agency.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5170?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
+            },
+            "number": "5169",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend the Employee Retirement Income Security Act of 1974 to provide that any mandatory predispute or coerced postdispute arbitration clause, class action waiver, representation waiver, or discretionary clause with respect to a plan is unenforceable, to prohibit any such clause or waiver from being included in a plan document or other agreement with plan participants, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5169?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "5168",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to make certain antidiscrimination laws applicable to the judicial branch of the Federal Government, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5168?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S6444)"
+            },
+            "number": "5165",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to prohibit the intimidation of election officials and election workers.",
+            "type": "S",
+            "updateDate": "2024-09-27",
+            "updateDateIncludingText": "2024-09-27",
+            "url": "https://api.congress.gov/v3/bill/118/s/5165?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "5164",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to extend the temporary scheduling order for fentanyl-related substances.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5164?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on Finance."
+            },
+            "number": "5167",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to amend section 45Q of the Internal Revenue Code of 1986 to establish the mine methane capture incentive credit.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5167?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Read twice and referred to the Committee on the Judiciary."
+            },
+            "number": "5166",
+            "originChamber": "Senate",
+            "originChamberCode": "S",
+            "title": "A bill to provide major Presidential and Vice Presidential candidates with the same level of Secret Service protection as Presidents and Vice Presidents, and for other purposes.",
+            "type": "S",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/s/5166?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 33 - 28."
+            },
+            "number": "9750",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Natural Disaster Recovery Program Act of 2024",
+            "type": "HR",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9750?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Ordered to be Reported by the Yeas and Nays: 58 - 2."
+            },
+            "number": "7671",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Disaster Management Costs Modernization Act",
+            "type": "HR",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/7671?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Ordered to be Reported by Voice Vote."
+            },
+            "number": "4406",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "DHS Basic Training Accreditation Improvement Act of 2023",
+            "type": "HR",
+            "updateDate": "2024-09-27",
+            "updateDateIncludingText": "2024-09-27",
+            "url": "https://api.congress.gov/v3/bill/118/hr/4406?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Ordered to be Reported by the Yeas and Nays: 20 - 13."
+            },
+            "number": "9686",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "HEALTH Panel Act",
+            "type": "HR",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9686?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 13."
+            },
+            "number": "8068",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Stop the Baseline Bloat Act of 2024",
+            "type": "HR",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/8068?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Ordered to be Reported by the Yeas and Nays: 21 - 12."
+            },
+            "number": "9711",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Congressional Budget Office Scheduling Reform Act",
+            "type": "HR",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9711?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Ordered to be Reported by the Yeas and Nays: 21 - 12."
+            },
+            "number": "9714",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "CBO Oversight Act",
+            "type": "HR",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9714?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Ordered to be Reported by the Yeas and Nays: 20 - 12."
+            },
+            "number": "9751",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Executive Action Cost Transparency Act",
+            "type": "HR",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9751?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Referred to the House Committee on Foreign Affairs."
+            },
+            "number": "9850",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To protect and promote American values abroad, including the rights of freedom of speech and freedom of expression enshrined in the United States Constitution and the International Covenant on Civil and Political Rights, through the use of foreign assistance and by assuring U.S. law enforcement does not cooperate in censorship abroad.",
+            "type": "HR",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9850?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "1511",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing support for the designation of September 2024 as \"National Prostate Cancer Awareness Month\".",
+            "type": "HRES",
+            "updateDate": "2024-09-27",
+            "updateDateIncludingText": "2024-09-27",
+            "url": "https://api.congress.gov/v3/bill/118/hres/1511?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Referred to the House Committee on Natural Resources."
+            },
+            "number": "9826",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To modify the boundaries of the San Pablo Bay National Wildlife Refuge, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2024-09-27",
+            "updateDateIncludingText": "2024-09-27",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9826?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Referred to the Committee on Small Business, and in addition to the Committee on Oversight and Accountability, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "9832",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To make improvements to Federal contracting practices for disadvantaged small businesses, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9832?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Referred to the House Committee on Oversight and Accountability."
+            },
+            "number": "9839",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To amend title 39, United States Code, to modernize the Postal Service regulations, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9839?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Referred to the House Committee on Transportation and Infrastructure."
+            },
+            "number": "1519",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Expressing support for the designation of the week of September 23 through September 29, 2024, as \"See Tracks? Think Train! Week\" in the United States, and supporting the goals and ideals of reducing highway-rail grade crossing-related incidents, fatalities, and injuries.",
+            "type": "HRES",
+            "updateDate": "2024-10-01",
+            "updateDateIncludingText": "2024-10-01",
+            "url": "https://api.congress.gov/v3/bill/118/hres/1519?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "9796",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To direct the Secretary of Health and Human Services and the Secretary of Housing and Urban Development to jointly award grants for the purposes of improving access to, developing, or expanding services that provide an individual with transportation to or from substance use disorder treatment or supportive services.",
+            "type": "HR",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9796?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Referred to the House Committee on Agriculture."
+            },
+            "number": "9795",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To authorize a pilot program for the making of 90-year, zero interest loans for the purchase of real estate to be used for agricultural production for 90 years.",
+            "type": "HR",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9795?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "1509",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Supporting the designation of the week beginning November 11, 2024, as \"National Pregnancy Center Week\" to recognize the vital role that community-supported pregnancy centers play in saving lives and serving women and men faced with difficult pregnancy decisions.",
+            "type": "HRES",
+            "updateDate": "2024-09-27",
+            "updateDateIncludingText": "2024-09-27",
+            "url": "https://api.congress.gov/v3/bill/118/hres/1509?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Referred to the House Committee on the Judiciary."
+            },
+            "number": "9858",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To strengthen the rights of crime victims, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9858?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Referred to the Committee on Science, Space, and Technology, and in addition to the Committees on Energy and Commerce, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "9851",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To amend the Energy Policy Act of 2005 to establish a Hydrogen Technologies for Heavy Industry Demonstration Program, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9851?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Referred to the House Committee on Energy and Commerce."
+            },
+            "number": "1514",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Recognizing that cancer patients have the right to receive care that ensures effective prevention, early diagnosis, improved outcomes, optimal patient rehabilitation, and affordable health care.",
+            "type": "HRES",
+            "updateDate": "2024-09-27",
+            "updateDateIncludingText": "2024-09-27",
+            "url": "https://api.congress.gov/v3/bill/118/hres/1514?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
+            },
+            "number": "9802",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To amend title XI of the Social Security Act to require the Secretary of Health and Human Services to verify whether a health care provider is licensed in good standing before issuing the provider a unique health identifier, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9802?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Referred to the House Committee on Oversight and Accountability."
+            },
+            "number": "1508",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "Supporting the designation of September 2024 as \"National Ovarian Cancer Awareness Month\".",
+            "type": "HRES",
+            "updateDate": "2024-09-28",
+            "updateDateIncludingText": "2024-09-28",
+            "url": "https://api.congress.gov/v3/bill/118/hres/1508?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "9825",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To amend the Head Start Act to include TANF, SSI, SNAP, WIC, and federal housing assistance as eligible public assistance.",
+            "type": "HR",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9825?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Referred to the House Committee on Education and the Workforce."
+            },
+            "number": "9810",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To authorize the Secretary of Health and Human Services to carry out an early childhood educator loan assistance program, and for other purposes.",
+            "type": "HR",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9810?format=json"
+        },
+        {
+            "congress": 118,
+            "latestAction": {
+                "actionDate": "2024-09-25",
+                "text": "Referred to the House Committee on Natural Resources."
+            },
+            "number": "9821",
+            "originChamber": "House",
+            "originChamberCode": "H",
+            "title": "To improve the management of forage fish.",
+            "type": "HR",
+            "updateDate": "2024-09-26",
+            "updateDateIncludingText": "2024-09-26",
+            "url": "https://api.congress.gov/v3/bill/118/hr/9821?format=json"
+        }
+    ],
+    "pagination": {
+        "count": 393144,
+        "next": "https://api.congress.gov/v3/bill?fromDateTime=2004-01-01T00:00:00Z&toDateTime=2024-10-01T23:59:59Z&offset=250&limit=250&format=json"
+    },
+    "request": {
+        "contentType": "application/json",
+        "format": "json"
+    }
+}

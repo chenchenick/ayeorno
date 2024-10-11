@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start:server": "NODE_ENV=development node swagger.js && npm run build && node dist/src/server.js"
+  },
+  "type": "module"
+}
