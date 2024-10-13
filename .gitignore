@@ -1,0 +1,5 @@
+vote_records/
+__pycache__/
+venv/
+votes.db
+main/__pycache__/db_handler.cpython-312.pyc

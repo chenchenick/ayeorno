@@ -56,3 +56,41 @@ class DBHandler:
 
     def close(self):
         self.conn.close()
+
+    def insert_year_summary(self, year, total_votes, processed_votes, failed_votes):
+        query = """
+        INSERT INTO year_summary (year, total_votes, processed_votes, failed_votes)
+        VALUES (?, ?, ?, ?)
+        """
+        self.cursor.execute(query, (year, total_votes, processed_votes, failed_votes))
+        self.conn.commit()
+
+    def insert_overall_summary(self, total_votes, processed_votes, failed_votes):
+        query = """
+        INSERT INTO overall_summary (total_votes, processed_votes, failed_votes)
+        VALUES (?, ?, ?)
+        """
+        self.cursor.execute(query, (total_votes, processed_votes, failed_votes))
+        self.conn.commit()
+
+    def create_summary_tables(self):
+        self.cursor.execute("""
+        CREATE TABLE IF NOT EXISTS year_summary (
+            id INTEGER PRIMARY KEY,
+            year INTEGER,
+            total_votes INTEGER,
+            processed_votes INTEGER,
+            failed_votes INTEGER
+        )
+        """)
+
+        self.cursor.execute("""
+        CREATE TABLE IF NOT EXISTS overall_summary (
+            id INTEGER PRIMARY KEY,
+            total_votes INTEGER,
+            processed_votes INTEGER,
+            failed_votes INTEGER,
+            timestamp DATETIME DEFAULT CURRENT_TIMESTAMP
+        )
+        """)
+        self.conn.commit()
